@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Quinten Williams
 
-I'm glad you are here. I plan to talk about ...
+Personal projects, thoughts, etc.
